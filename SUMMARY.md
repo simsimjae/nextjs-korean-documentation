@@ -1,3 +1,5 @@
-- [시작하기](README.md)
-- [기본 기능들](01.BasicFeatures.md)
-  - [Fast Refresh](01.ReactFastRefresh.md)
+- [Next.js 공식문서 한글 번역판 by simsimjae](README.md)
+- Basic Features
+  - [Pages](BasicFeatures/01.Pages.md)
+  - [Data Fetching](BasicFeatures/02.DataFetching.md)
+  - [Fast Refresh](BasicFeatures/04.FastRefresh.md)
