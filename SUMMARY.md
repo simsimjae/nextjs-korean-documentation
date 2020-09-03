@@ -1,5 +1,6 @@
 - [Next.js 공식문서 한글 번역판 by simsimjae](README.md)
 - Basic Features
   - [Pages](BasicFeatures/01.Pages.md)
-  - [Data Fetching](BasicFeatures/02.DataFetching.md)
+  - [Data Fetching](BasicFeatures/02.DataFetching.md) 
+    - [Incremental Static Generation](BasicFeatures/02-01.Incremental-Static-Regeneration.md)
   - [Fast Refresh](BasicFeatures/04.FastRefresh.md)
