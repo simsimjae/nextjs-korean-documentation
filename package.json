@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-korean-documentation",
+  "version": "1.0.0",
+  "description": "이 문서는 저자가 Next.js의 공식문서를 보고 번역, 의역, 해석한 내용이므로 정확히 일치하지 않을 수 있습니다. 또한 너무 쉬운 내용은 적지 않았으니 빠진 내용은 공식문서를 참고해주세요.",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simsimjae/nextjs-korean-documentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simsimjae/nextjs-korean-documentation/issues"
+  },
+  "homepage": "https://github.com/simsimjae/nextjs-korean-documentation#readme"
+}
