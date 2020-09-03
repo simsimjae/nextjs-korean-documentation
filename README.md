@@ -7,6 +7,10 @@
 
 - 1차 버전 : 2020.08.30 ~
 
+# [Written by 심재철](https://github.com/simsimjae)
+
+![](../.gitbook/assets/simsimjae.png)
+
 # 설치
 
 ```bash
