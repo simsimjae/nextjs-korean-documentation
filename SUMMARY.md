@@ -2,5 +2,6 @@
 - Basic Features
   - [Pages](BasicFeatures/01.Pages.md)
   - [Data Fetching](BasicFeatures/02.DataFetching.md) 
-    - [Incremental Static Generation](BasicFeatures/02-01.Incremental-Static-Regeneration.md)
+    - [getStaticProps](BasicFeatures/02.01.getStaticProps.md)
+    - [getStaticPaths](BasicFeatures/02.02.getStaticPaths.md)
   - [Fast Refresh](BasicFeatures/04.FastRefresh.md)
